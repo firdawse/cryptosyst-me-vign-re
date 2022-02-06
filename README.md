@@ -145,7 +145,7 @@ string Dechiffrer(string plainText, string key)
 
 ##    trouver la clé de chiffrement de taille prédifinie   
 
-> Avec la meme fonction déchiffer qu'on vient de développer ou peut arriver a trouver une clé de taille  3 a l'aide des boucle for imbriqués  
+> Avec la meme fonction déchiffer qu'on vient d'implémenter ou peut arriver à trouver une clé de taille 3 a l'aide des boucle for imbriqués  
 ```  c++
 void findKey(string cipher)
 {
